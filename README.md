@@ -12,4 +12,4 @@ O projeto possui uma estrutura organizada com HTML, CSS e JavaScript separados, 
 
 ## Nome do aluno: Tiago Shimazaki Barros RM:570359
 
-## Link GitHub Pages:
+## Link GitHub Pages: https://shimazakibr.github.io/vinheria-agnello-checkpoint03/
